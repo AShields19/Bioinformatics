@@ -1,1 +1,6 @@
 Contributors
+Meg Montgomery- No participation
+Emily Carpenter- eQTL Analysis 
+Christopher Mann- PPI Network Creation
+Michelle Dina- Organization of Project and Data Collection
+Aiden Shields- Compiliaiton of Results and Repository Formatting
