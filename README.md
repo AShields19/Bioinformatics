@@ -14,3 +14,9 @@ Several genes are implicated in the expression of AML. In AML, these are some of
 * FLT3- Activation leads to an increase in proliferation and survival of cancerous cells
 * DNMT3A- Epigenetic factor that can alter gene expression via DNA methylation
 * TET2- Impairs DNA methylation, leading to changes in gene expression/differentiation
+
+# Protein-Protein Interaction Network
+
+# eQTLs
+
+# Conclusion
