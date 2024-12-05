@@ -15,8 +15,6 @@ Several genes are implicated in the expression of AML. In AML, these are some of
 * DNMT3A- Epigenetic factor that can alter gene expression via DNA methylation
 * TET2- Impairs DNA methylation, leading to changes in gene expression/differentiation
 
-# Protein-Protein Interaction Network
-
-# eQTLs
+# Protein-Protein Interaction Network and eQTLs
 
 # Conclusion
